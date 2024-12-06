@@ -1,6 +1,3 @@
-import sys
-
-sys.setrecursionlimit(1050)
 def artcode_i(s):
     """Encode une chaîne de caractères en utilisant un algorithme itératif."""
     if not s:  # Cas où la chaîne est vide
